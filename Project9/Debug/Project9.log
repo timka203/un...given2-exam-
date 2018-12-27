@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\student\source\repos\project9\project9\source.cpp(34): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\student\source\repos\project9\project9\source.cpp(14): warning C4101: a: неиспользованная локальная переменная
+c:\users\student\source\repos\project9\project9\source.cpp(14): warning C4101: f: неиспользованная локальная переменная
+c:\users\student\source\repos\project9\project9\source.cpp(14): warning C4101: s: неиспользованная локальная переменная
+c:\users\student\source\repos\project9\project9\source.cpp(14): warning C4101: g: неиспользованная локальная переменная
+c:\users\student\source\repos\project9\project9\source.cpp(14): warning C4101: d: неиспользованная локальная переменная
+c:\users\student\source\repos\project9\project9\source.cpp(46): warning C4101: tme: неиспользованная локальная переменная
+c:\users\student\source\repos\project9\project9\source.cpp(127): warning C4101: age: неиспользованная локальная переменная
+c:\users\student\source\repos\project9\project9\source.cpp(228): warning C4129: %: неизвестная escape-последовательность
+c:\users\student\source\repos\project9\project9\source.cpp(235): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project9.vcxproj -> C:\Users\Student\source\repos\Project9\Debug\Project9.exe
